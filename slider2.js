@@ -266,6 +266,6 @@ window.onload = slider.init({
     pointShape:"circle", //circle(原点)，square(正方形)
     pointColor:"black",  //名称，#xxxxxx
     pointColoClick:"gray",  //名称，#xxxxxx
-    toggle:"fade",       //horizontal(水平)，vertical（垂直），fade（淡入淡出）
+    toggle:"horizontal",       //horizontal(水平)，vertical（垂直），fade（淡入淡出）
     mouseListener:true //true(监听)，false（不监听)
 });
